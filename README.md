@@ -10,8 +10,8 @@ Hands-on homelab environment focused on Windows administration, helpdesk workflo
 |:--|:--|
 | [Active-Directory](Active-Directory) | Domain setup, users/groups, GPOs, DNS, shared folders |
 | [Windows-Server](Windows-Server) | Server roles, DHCP, DNS, file services |
-| [Entra-ID](Entra-ID) | Cloud identity management and conditional access |
 | [Ticketing-Sim](Ticketing-Simulation) | Simulated helpdesk tickets, troubleshooting workflows, and user support scenarios |
+| [Entra-ID](Entra-ID) | Cloud identity management and conditional access |
 | [Confluence](Confluence) | Knowledge base documentation, troubleshooting guides, and internal IT support documentation |
 | [ServiceNow](ServiceNow) | Incident management, ticket handling workflows, and enterprise IT support operations |
 | [Jira](Jira) | Ticketing workflows and IT support scenarios |
