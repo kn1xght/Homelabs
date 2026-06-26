@@ -19,17 +19,6 @@ Hands-on IT Support and Cybersecurity projects built to simulate enterprise envi
 
 ---
 
-## 🛠️ Technologies & Platforms
-
-- VMware Workstation Pro
-- Active Directory
-- Windows Server 2022
-- Confluence
-- ServiceNow
-- Microsoft Entra ID
-- Jira Service Management
-- Windows 11
-
 ## 🚀 Progress
 
 | Project | Status |
@@ -54,13 +43,4 @@ Hands-on IT Support and Cybersecurity projects built to simulate enterprise envi
 - Practice writing clear and structured technical documentation
 
 ---
-
-## 📝 Notes
-
-Each folder contains:
-- setup documentation
-- screenshots
-- troubleshooting notes
-- configurations
-- lessons learned
 
