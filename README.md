@@ -1,6 +1,6 @@
-# 🖥️ IT Support & Cybersecurity Labs
+# 🖥️ IT Support Labs
 
-Hands-on IT Support and Cybersecurity labs built to simulate enterprise environments using Virtualization, Windows Server, Active Directory, Microsoft Entra ID, and common helpdesk tools. Each lab includes documentation, screenshots, troubleshooting notes, and lessons learned.
+Hands-on IT Support labs built to simulate enterprise environments using Virtualization, Windows Server, Active Directory, Microsoft Entra ID, and common helpdesk tools. Each lab includes documentation, screenshots, troubleshooting notes, and lessons learned.
 
 ---
 
