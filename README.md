@@ -1,10 +1,10 @@
-# 🖥️ IT Support & Cybersecurity Projects
+# 🖥️ IT Support & Cybersecurity Labs
 
-Hands-on IT Support and Cybersecurity projects built to simulate enterprise environments using Virtualization, Windows Server, Active Directory, Microsoft Entra ID, and common helpdesk tools. Each lab includes documentation, screenshots, troubleshooting notes, and lessons learned.
+Hands-on IT Support and Cybersecurity labs built to simulate enterprise environments using Virtualization, Windows Server, Active Directory, Microsoft Entra ID, and common helpdesk tools. Each lab includes documentation, screenshots, troubleshooting notes, and lessons learned.
 
 ---
 
-## 📂 Projects
+## 📂 Labs
 
 | Project | Description |
 |:--|:--|
@@ -23,14 +23,14 @@ Hands-on IT Support and Cybersecurity projects built to simulate enterprise envi
 
 | Project | Status |
 |----------|--------|
-| Virtualization | ✅ Complete |
-| Active Directory | 🚧 In Progress |
-| Windows Server | 🚧 In Progress |
-| Ticket Simulation | 📅 Planned |
-| Confluence | 📅 Planned |
-| ServiceNow | 📅 Planned |
-| Entra-ID | 📅 Planned |
-| Jira | 📅 Planned |
+| Virtualization | 🟢 Complete |
+| Active Directory | 🟡 In Progress |
+| Windows Server | 🟡 In Progress |
+| Ticket Simulation | ⚪ Planned |
+| Confluence | ⚪ Planned |
+| ServiceNow | ⚪ Planned |
+| Entra-ID | ⚪ Planned |
+| Jira | ⚪ Planned |
 
 
 ---
