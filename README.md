@@ -1,6 +1,6 @@
 # 🖥️ IT Support & Cybersecurity Homelabs
 
-Hands-on homelab environment focused on Windows administration, helpdesk workflows, identity management, networking, and cybersecurity fundamentals. Built to simulate real-world IT support and junior cybersecurity scenarios.
+Hands-on IT Support and Cybersecurity projects built to simulate enterprise environments using Virtualization, Windows Server, Active Directory, Microsoft Entra ID, and common helpdesk tools. Each lab includes documentation, screenshots, troubleshooting notes, and lessons learned.
 
 ---
 
@@ -8,27 +8,28 @@ Hands-on homelab environment focused on Windows administration, helpdesk workflo
 
 | Lab | Description |
 |:--|:--|
-| [Virtualization](Virtualization) | VMware Workstation Pro setup, Windows/Linux VMs, snapshots, networking, shared folders |
+| [Virtualization](Virtualization) | Windows/Linux VMs, snapshots, networking, shared folders |
 | [Active&#8209;Directory](Active-Directory) | Domain setup, users/groups, GPOs, DNS, shared folders |
 | [Windows&#8209;Server](Windows-Server) | Server roles, DHCP, DNS, file services |
-| [Ticket&#8209;Simulation](Ticket-Simulation) | Simulated helpdesk tickets, troubleshooting workflows, and user support scenarios |
-| [Confluence](Confluence) | Knowledge base documentation, troubleshooting guides, and internal IT support documentation |
-| [ServiceNow](ServiceNow) | Incident management, ticket handling workflows, and enterprise IT support operations |
-| [Entra-ID](Entra-ID) | Cloud identity management and conditional access |
+| [Ticket&#8209;Simulation](Ticket-Simulation) | Helpdesk ticket simulation, workflow troubleshooting, and user support scenarios |
+| [Confluence](Confluence) | Internal documentation, SOPs, troubleshooting guides, and knowledge base articles. |
+| [ServiceNow](ServiceNow) | Incident management, service requests, and ticket workflows following ITIL practices. |
+| [Entra-ID](Entra-ID) | Cloud identity configuration, user management, MFA, Conditional Access |
 | [Jira](Jira) | Ticketing workflows and IT support scenarios |
 
 ---
 
 ## 🛠️ Technologies & Platforms
 
-- Windows Server 2022
+- VMware Workstation Pro
 - Active Directory
+- Windows Server 2022
+- Confluence
+- ServiceNow
 - Microsoft Entra ID
 - Jira Service Management
-- VirtualBox / VMware
-- Windows 10 / 11
-- ServiceNow
-- Confluence
+- Windows 11
+
 
 ---
 
