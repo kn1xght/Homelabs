@@ -1,12 +1,17 @@
-# 🖥️ IT Support & Cybersecurity Homelabs
+# 🖥️ IT Support & Cybersecurity Projects
+
+![Windows Server](https://img.shields.io/badge/Windows_Server-2022-blue)
+![Windows 11](https://img.shields.io/badge/Windows-11-0078D6)
+![VMware](https://img.shields.io/badge/VMware-Workstation-orange)
+![Active Directory](https://img.shields.io/badge/Active_Directory-Lab-success)
 
 Hands-on IT Support and Cybersecurity projects built to simulate enterprise environments using Virtualization, Windows Server, Active Directory, Microsoft Entra ID, and common helpdesk tools. Each lab includes documentation, screenshots, troubleshooting notes, and lessons learned.
 
 ---
 
-## 📂 Labs
+## 📂 Projects
 
-| Lab | Description |
+| Project | Description |
 |:--|:--|
 | [Virtualization](Virtualization) | Windows/Linux VMs, snapshots, networking, shared folders |
 | [Active&#8209;Directory](Active-Directory) | Domain setup, users/groups, GPOs, DNS, shared folders |
@@ -29,6 +34,19 @@ Hands-on IT Support and Cybersecurity projects built to simulate enterprise envi
 - Microsoft Entra ID
 - Jira Service Management
 - Windows 11
+
+## Progress
+
+| Project | Status |
+|----------|--------|
+| Virtualization | ✅ Complete |
+| Active Directory | 🚧 In Progress |
+| Windows Server | 🚧 In Progress |
+| Ticket Simulation | 📅 Planned |
+| Confluence | 📅 Planned |
+| ServiceNow | 📅 Planned |
+| Entra-ID | 📅 Planned |
+| Jira | 📅 Planned |
 
 
 ---
