@@ -8,6 +8,7 @@ Hands-on homelab environment focused on Windows administration, helpdesk workflo
 
 | Lab | Description |
 |:--|:--|
+| [Virtualization](Virtualization) | VMware Workstation Pro setup, Windows/Linux VMs, snapshots, networking, shared folders |
 | [Active&#8209;Directory](Active-Directory) | Domain setup, users/groups, GPOs, DNS, shared folders |
 | [Windows&#8209;Server](Windows-Server) | Server roles, DHCP, DNS, file services |
 | [Ticket&#8209;Simulation](Ticket-Simulation) | Simulated helpdesk tickets, troubleshooting workflows, and user support scenarios |
