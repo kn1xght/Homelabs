@@ -1,9 +1,13 @@
 # 🖥️ IT Support & Cybersecurity Projects
 
-![Windows Server](https://img.shields.io/badge/Windows_Server-2022-blue)
-![Windows 11](https://img.shields.io/badge/Windows-11-0078D6)
-![VMware](https://img.shields.io/badge/VMware-Workstation-orange)
-![Active Directory](https://img.shields.io/badge/Active_Directory-Lab-success)
+![VMware Workstation Pro](https://img.shields.io/badge/VMware-Workstation_Pro-607078?logo=vmware&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-Lab-003366)
+![Windows Server 2022](https://img.shields.io/badge/Windows_Server-2022-0078D4?logo=windows&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-Documentation-172B4D?logo=confluence&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-ITSM-81B441?logo=servicenow&logoColor=white)
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft-Entra_ID-0078D4?logo=microsoft&logoColor=white)
+![Jira Service Management](https://img.shields.io/badge/Jira-Service_Management-0052CC?logo=jira&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows-11-0078D4?logo=windows&logoColor=white)
 
 Hands-on IT Support and Cybersecurity projects built to simulate enterprise environments using Virtualization, Windows Server, Active Directory, Microsoft Entra ID, and common helpdesk tools. Each lab includes documentation, screenshots, troubleshooting notes, and lessons learned.
 
